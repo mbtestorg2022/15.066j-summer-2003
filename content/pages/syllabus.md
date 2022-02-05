@@ -63,13 +63,86 @@ Digital simulation deals with the design and analysis of computer models in orde
 
 Because of its first objective, this module involves a sustained workload and many opportunities for hands-on practice. This year we will use two software packages for in-class examples, tutorials and homework assignments throughout the course: Crystal Ball® (CB) for static (Monte-Carlo) simulations, and SIMUL8® (S8) for dynamic discrete-event simulations (the exact meaning of these terms will be explained in the first lecture). While I have primarily selected these software packages among dozens of others because they are both relatively easy to learn, they also happen to be quite widespread and powerful. For support regarding the actual use and learning of these software packages, you should normally consult the following sources (in this order):
 
-| ORDER | CRYSTAL BALL® | SIMUL8® |
-| --- | --- | --- |
-| 1 | Help File (Software Help Menu) | Help File (Software Help Menu) |
-| 2 | User Manual | User Manual |
-| 3 | Online FAQ available at  {{< br >}}[Decisioneering Online Knowledgebase](http://www.decisioneering.com/) | Online Q&A Forum available at  {{< br >}}[SIMUL8® Cafe](http://www.simul8.com/) |
-| 4 | Teaching Assistant | Teaching Assistant |
-| 5 | Professor Gallien | Professor Gallien 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ORDER
+{{< thclose >}}
+{{< thopen >}}
+CRYSTAL BALL®
+{{< thclose >}}
+{{< thopen >}}
+SIMUL8®
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Help File (Software Help Menu)
+{{< tdclose >}}
+{{< tdopen >}}
+Help File (Software Help Menu)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+User Manual
+{{< tdclose >}}
+{{< tdopen >}}
+User Manual
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Online FAQ available at  
+[Decisioneering Online Knowledgebase](http://www.decisioneering.com/)
+{{< tdclose >}}
+{{< tdopen >}}
+Online Q&A Forum available at  
+[SIMUL8® Cafe](http://www.simul8.com/)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Teaching Assistant
+{{< tdclose >}}
+{{< tdopen >}}
+Teaching Assistant
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Professor Gallien
+{{< tdclose >}}
+{{< tdopen >}}
+Professor Gallien
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 However, if for some reason you find yourself stuck or struggling for more than 30 minutes and sources 1-3 do not yield any quick answer/fix, please do escalate to sources 4 and 5 at that point (again, the goal is to learn about simulation, not software interface). In addition, the module will contain in-class introduction/demos to both CB and S8, and I have assigned as a required reading for Class 4 the tutorial "Introduction to SIMUL8®" which I have adapted from some of SIMUL8 Corporation's training material.
 

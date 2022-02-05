@@ -22,12 +22,119 @@ Student Work
 
 Examples of group projects, including memorandums, presentations, and spreadsheets, are available in the table below. Each collection of documents is courtesy of the students named, and is used with permission.
 
-| GROUP # | TOPICS | PROJECT FILES |
-| --- | --- | --- |
-| 1 | Labor Planning for a Manufacturing Line - Lane Ballard, Christine Cheung, Justin Ging, Omur Kaya, David Jackson, and Alyson Naughton | Final Memorandum ([PDF]({{< baseurl >}}/resources/group1_writeup))  {{< br >}}  {{< br >}}Presentation ([PDF]({{< baseurl >}}/resources/group1_presentation))  {{< br >}}  {{< br >}}Spreadsheet of Model ([XLS]({{< baseurl >}}/resources/group1_spreadsheet)) |
-| 3 | Pump System Design: Optimizing Total Cost Over System Life Cycle - Tamara Greenlaw, Christian Caballero, Aaron Raphel, Minja Penttila, and Cliff Smith | Final Memorandum ([PDF]({{< baseurl >}}/resources/group3_writeup))  {{< br >}}  {{< br >}}Presentation ([PDF]({{< baseurl >}}/resources/group3_presentation))  {{< br >}}  {{< br >}}Spreadsheet of Model ([XLS]({{< baseurl >}}/resources/group3_spreadsheet)) |
-| 4 | Assignment of Instructors for Courses and Sections Within the U.S. Air Force Academy Department of Mathematical Sciences | &nbsp; |
-| 5 | Fundraising Optimization for the Leukemia & Lymphoma Society's Team In Training | &nbsp; |
-| 6 | Boston Bound: Optimization of LFM Student Summer Travel to Boston |  {{< br >}}{{< br >}}  |
-| 7 | Student Loan Optimization | &nbsp; |
-| 8 | Marina Mooring Optimization - Brian Siefering, Amber Mazooji, Kevin McKenney, Paul Mingardi, Vikram Sahney, and Kazunori Maruyama | Final Memorandum ([PDF]({{< baseurl >}}/resources/group8_writeup))  {{< br >}}  {{< br >}}Presentation ([PDF]({{< baseurl >}}/resources/group8_presentation))  {{< br >}}  {{< br >}}Spreadsheet of Model ([XLS]({{< baseurl >}}/resources/group8_spreadsheet))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GROUP #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+PROJECT FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Labor Planning for a Manufacturing Line - Lane Ballard, Christine Cheung, Justin Ging, Omur Kaya, David Jackson, and Alyson Naughton
+{{< tdclose >}}
+{{< tdopen >}}
+Final Memorandum ([PDF]({{< baseurl >}}/resources/group1_writeup))  
+  
+Presentation ([PDF]({{< baseurl >}}/resources/group1_presentation))  
+  
+Spreadsheet of Model ([XLS]({{< baseurl >}}/resources/group1_spreadsheet))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Pump System Design: Optimizing Total Cost Over System Life Cycle - Tamara Greenlaw, Christian Caballero, Aaron Raphel, Minja Penttila, and Cliff Smith
+{{< tdclose >}}
+{{< tdopen >}}
+Final Memorandum ([PDF]({{< baseurl >}}/resources/group3_writeup))  
+  
+Presentation ([PDF]({{< baseurl >}}/resources/group3_presentation))  
+  
+Spreadsheet of Model ([XLS]({{< baseurl >}}/resources/group3_spreadsheet))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment of Instructors for Courses and Sections Within the U.S. Air Force Academy Department of Mathematical Sciences
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Fundraising Optimization for the Leukemia & Lymphoma Society's Team In Training
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Boston Bound: Optimization of LFM Student Summer Travel to Boston
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Student Loan Optimization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Marina Mooring Optimization - Brian Siefering, Amber Mazooji, Kevin McKenney, Paul Mingardi, Vikram Sahney, and Kazunori Maruyama
+{{< tdclose >}}
+{{< tdopen >}}
+Final Memorandum ([PDF]({{< baseurl >}}/resources/group8_writeup))  
+  
+Presentation ([PDF]({{< baseurl >}}/resources/group8_presentation))  
+  
+Spreadsheet of Model ([XLS]({{< baseurl >}}/resources/group8_spreadsheet))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
