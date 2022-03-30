@@ -185,7 +185,7 @@ Baker: 8 (Skim)
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Debriefing of Inventory Simulation (with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013/))
+Debriefing of Inventory Simulation (with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -292,7 +292,7 @@ _Introduction to SIMUL8®_ (Adapted for 15.066J from some of SIMUL8 Corporation'
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Theory of Constraints (Joint Session with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013/))
+Theory of Constraints (Joint Session with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013))
 {{< tdclose >}}
 {{< tdopen >}}
  

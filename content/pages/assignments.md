@@ -245,7 +245,7 @@ Group Problem Set 3: LP (Linear Programming) & Networks ([PDF]({{< baseurl >}}/r
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Debriefing of Inventory Simulation (with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013/))
+Debriefing of Inventory Simulation (with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -399,7 +399,7 @@ Question 5 in ClearPictures, Inc.
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Theory of Constraints (Joint Session with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013/))
+Theory of Constraints (Joint Session with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013))
 {{< tdclose >}}
 {{< tdopen >}}
 Group Project Proposal
